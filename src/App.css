@@ -40,3 +40,34 @@
 .read-the-docs {
   color: #888;
 }
+
+
+.id-each-card{
+  display: flex;
+  flex-direction: row;
+  gap:25px;
+  border: 2px solid black;
+  width: 80rem;
+}
+.greetings-container {
+  border: 2px solid black;
+}
+
+.stars-div{
+  display: flex;
+  flex-direction: row;
+}
+.stars {
+  height: 20px;
+  width: 20px;
+}
+.driver-card-img {
+  height: 40px;
+  width: 40px;
+
+}
+.div-container{
+  display: flex;
+  flex-direction: column;
+}
+
